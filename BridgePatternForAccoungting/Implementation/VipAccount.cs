@@ -6,7 +6,7 @@ namespace BridgePatternForAccoungting.Implementation
     {
         public decimal CalcTax(decimal salary)
         {
-            return salary - 10;
+            return (salary * 10) / 100;
         }
     }
 }

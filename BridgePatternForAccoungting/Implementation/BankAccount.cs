@@ -4,7 +4,7 @@
     {
         public decimal CalcTax(decimal salary)
         {
-            return salary - 50;
+            return (salary * 20) / 100;
         }
     }
 }

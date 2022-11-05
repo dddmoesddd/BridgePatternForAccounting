@@ -9,7 +9,9 @@ namespace BridgePatternForAccoungting
         static void Main(string[] args)
         {
             Abstraction.AbstractionAccount bankAccount = new LegalPerson(new VipAccount());
-            bankAccount.CalcTax(9000);
+            var tax = bankAccount.CalcTax(3432);
+            Console.WriteLine("Caculated Tax  For Leagal Person Is {0} ", tax);
+            Console.ReadLine();
         }
     }
 }
