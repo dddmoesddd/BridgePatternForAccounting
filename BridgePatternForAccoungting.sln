@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePatternForAccoungting", "BridgePatternForAccoungting\BridgePatternForAccoungting.csproj", "{5FEB9A37-08D6-4A86-8313-BA860BD70527}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BridgePatternForAccounting", "BridgePatternForAccoungting\BridgePatternForAccounting.csproj", "{5FEB9A37-08D6-4A86-8313-BA860BD70527}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
